@@ -19,6 +19,29 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 - **Innovation**: AI/ML integration, performance optimization, cutting-edge technologies
 - **Collaboration**: Cross-functional teams, stakeholder communication, agile methodologies
 
+## 🎯 Skill Mastery
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Mastering+Modern+Technologies;Building+Scalable+Solutions;Cloud-Native+Development" alt="Skill Mastery" />
+</div>
+
+### Frontend & Backend
+**React/Next.js** ████████████████████████████████████████ 90%
+
+**Node.js/Express** ████████████████████████████████████ 80%
+
+**Python/Django** ████████████████████████████████████ 75%
+
+### Cloud & DevOps
+**Docker/AWS** ████████████████████████████████████ 70%
+
+**PostgreSQL/Redis** ████████████████████████████████████ 85%
+
+### AI/ML & Data
+**TensorFlow/PyTorch** ████████████████████████████████████ 80%
+
+**Data Analytics** ████████████████████████████████████ 75%
+
 ## Technology Stack
 
 ### Languages
@@ -53,36 +76,23 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Live Terminal
+## 🖥️ Live Terminal
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Live+Terminal+Session;Building+the+Future+One+Commit+at+a+Time;Full-Stack+Developer+%7C+Cloud+Architect" alt="Live Terminal" />
+</div>
 
 ```bash
-$ whoami
-fatalmonk@github:~$ 
+$ cat about.txt
+Full-Stack Developer | Cloud Architect
 
-$ cat skills.txt
-┌─ Full-Stack Development ─────────────────┐
-│  ████████████████████████████████████ 100% │
-└─────────────────────────────────────────┘
+✓ AI-Powered Analytics Platform
+✓ Cloud Migration Suite  
+✓ Mobile Finance App
+✓ Open Source Contributions
 
-┌─ Cloud Architecture ────────────────────┐
-│  ████████████████████████████████████ 95%  │
-└─────────────────────────────────────────┘
-
-┌─ AI/ML Integration ─────────────────────┐
-│  ████████████████████████████████████ 90%  │
-└─────────────────────────────────────────┘
-
-┌─ System Design ─────────────────────────┐
-│  ████████████████████████████████████ 95%  │
-└─────────────────────────────────────────┘
-
-$ git status
-On branch main
-Your branch is up to date with 'origin/main'
-nothing to commit, working tree clean
-
-$ echo "Ready to build the future! 🚀"
-Ready to build the future! 🚀
+$ echo "Open for collaboration!"
+Ready to build the future 🚀
 ```
 
 ## GitHub Analytics
