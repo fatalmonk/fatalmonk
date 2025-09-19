@@ -82,18 +82,33 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Live+Terminal+Session;Building+the+Future+One+Commit+at+a+Time;Full-Stack+Developer+%7C+Cloud+Architect" alt="Live Terminal" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Live+Terminal+Session;Building+the+Future+One+Commit+at+a+Time;Full-Stack+Developer+%7C+Cloud+Architect" alt="Live Terminal" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ```bash
 $ cat about.txt
-Full-Stack Developer | Cloud Architect
+Full-Stack Developer | IoT Architect
 
-✓ AI-Powered Analytics Platform
-✓ Cloud Migration Suite  
-✓ Mobile Finance App
-✓ Open Source Contributions
+✓ StitchOS - Textile RFID Platform
+✓ PickMyDrive - Used Car Platform
+✓ QuickBill & CartCount
 
 $ echo "Open for collaboration!"
 Ready to build the future 🚀
 ```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## GitHub Analytics
 
