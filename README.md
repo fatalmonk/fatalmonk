@@ -87,7 +87,17 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Live+Terminal+Session;Building+the+Future+One+Commit+at+a+Time;Full-Stack+Developer+%7C+Cloud+Architect" alt="Live Terminal" />
+  <img src="terminal.svg" alt="Animated Terminal" width="800" height="300" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎨 Interactive 3D Experience
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Interactive+3D+Scene;Explore+My+Creative+Work;Built+with+Spline+3D" alt="3D Experience" />
 </div>
 
 <div align="center">
@@ -95,7 +105,12 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 </div>
 
 <div align="center">
-  <img src="terminal.svg" alt="Animated Terminal" width="800" height="300" />
+  <a href="https://app.spline.design/community/file/cbac7946-4054-41c2-a5ba-66b71eb2c966" target="_blank">
+    <img src="https://img.shields.io/badge/🎨-Interactive+3D+Scene-00D4FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="3D Scene" />
+  </a>
+  <a href="https://app.spline.design/community/file/cbac7946-4054-41c2-a5ba-66b71eb2c966" target="_blank">
+    <img src="https://img.shields.io/badge/🚀-View+Live+Demo-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Live Demo" />
+  </a>
 </div>
 
 <div align="center">
