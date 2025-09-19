@@ -87,14 +87,6 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Live+Terminal+Session;Building+the+Future+One+Commit+at+a+Time;Full-Stack+Developer+%7C+Cloud+Architect" alt="Live Terminal" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
   <img src="terminal.svg" alt="Animated Terminal" width="800" height="300" />
 </div>
 
