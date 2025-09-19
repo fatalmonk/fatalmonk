@@ -1,3 +1,5 @@
+# FatalMonk
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D3748&center=true&vCenter=true&width=400&lines=Senior+Software+Engineer;Full-Stack+Developer;Cloud+Architecture+Expert;AI%2FML+Specialist" alt="Typing SVG" />
 </div>
