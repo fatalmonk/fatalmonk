@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD013 MD033 MD041 MD022 MD032 MD036 MD045 MD047 -->
 # FatalMonk
 
 <div align="center">
