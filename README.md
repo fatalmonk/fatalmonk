@@ -76,27 +76,6 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🎨 3D Creative Work
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Interactive+3D+Designs;Building+Immersive+Experiences;Creative+Technology+Solutions" alt="3D Creative Work" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖-Interactive+Robot+Design-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Robot Design" />
-  <a href="https://my.spline.design/robotfollowcursorforlandingpagemc-anagLTzF6jxb2p2v1gQjPQLN/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀-View+Interactive+Demo-00D4FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e" alt="Live Demo" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ## 🖥️ Live Terminal
 
 <div align="center">
