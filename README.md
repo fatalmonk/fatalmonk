@@ -92,13 +92,28 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 
 ## GitHub Analytics
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fatalmonk&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568&icon_color=4299E1" height="180" />
+  <!-- Overall GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fatalmonk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatalmonk&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568" height="180" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatalmonk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+    height="180" 
+    alt="Top Languages" 
+  />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatalmonk&theme=default&hide_border=true&background=ffffff&stroke=4299E1&ring=4299E1&fire=4299E1&currStreakNum=2D3748&sideNums=2D3748&currStreakLabel=2D3748&sideLabels=2D3748&dates=4A5568" height="180" />
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fatalmonk&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
 
 </div>
 
