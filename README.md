@@ -90,35 +90,6 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 
 ---
 
-## GitHub Analytics
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-
-  <!-- Overall GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=fatalmonk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
-    height="180" 
-    alt="GitHub Stats" 
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatalmonk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
-    height="180" 
-    alt="Top Languages" 
-  />
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fatalmonk&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
-
-</div>
-
----
-
 ## Snake Game
 
 <div align="center">
