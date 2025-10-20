@@ -11,13 +11,15 @@
 
 ## About Me
 
-Passionate **Senior Software Engineer** with expertise in building scalable, high-performance applications. I specialize in **full-stack development**, **cloud architecture**, and **system design**. Currently focused on **AI/ML integration** and **microservices architecture** while contributing to open-source projects that make a real impact.
+Passionate **Senior Software Engineer** with expertise in building scalable, high-performance applications. I specialize in **full-stack development**, **cloud architecture**, and **system design**. Currently focused on **AI/ML integration** and **microservices architecture**, while contributing to open-source projects that make a real impact.
 
 ### Core Competencies
-- **Architecture & Design**: System design, microservices, cloud-native applications
+- **Architecture & Design**: System design, microservices, cloud-native applications  
 - **Leadership**: Technical mentoring, code reviews, architectural decisions  
-- **Innovation**: AI/ML integration, performance optimization, cutting-edge technologies
-- **Collaboration**: Cross-functional teams, stakeholder communication, agile methodologies
+- **Innovation**: AI/ML integration, performance optimization, cutting-edge technologies  
+- **Collaboration**: Cross-functional teams, stakeholder communication, agile methodologies  
+
+---
 
 ## 🎯 Skill Mastery
 
@@ -26,21 +28,19 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 </div>
 
 ### Frontend & Backend
-**React/Next.js** ████████████████████████████████████████ 90%
-
-**Node.js/Express** ████████████████████████████████████ 80%
-
+**React/Next.js** ████████████████████████████████████████ 90%  
+**Node.js/Express** ████████████████████████████████████ 80%  
 **Python/Django** ████████████████████████████████████ 75%
 
 ### Cloud & DevOps
-**Docker/AWS** ████████████████████████████████████ 70%
-
+**Docker/AWS** ████████████████████████████████████ 70%  
 **PostgreSQL/Redis** ████████████████████████████████████ 85%
 
 ### AI/ML & Data
-**TensorFlow/PyTorch** ████████████████████████████████████ 80%
-
+**TensorFlow/PyTorch** ████████████████████████████████████ 80%  
 **Data Analytics** ████████████████████████████████████ 75%
+
+---
 
 ## Technology Stack
 
@@ -76,6 +76,8 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
+
 ## 🖥️ Live Terminal
 
 <div align="center">
@@ -86,17 +88,7 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<div align="center">
-  <img src="terminal.svg" alt="Animated Terminal" width="800" height="300" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## GitHub Analytics
 
@@ -109,11 +101,7 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatalmonk&theme=default&hide_border=true&background=ffffff&stroke=4299E1&ring=4299E1&fire=4299E1&currStreakNum=2D3748&sideNums=2D3748&currStreakLabel=2D3748&sideLabels=2D3748&dates=4A5568" />
 </div>
 
-## 3D Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/fatalmonk/fatalmonk/blob/output/profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contribution Graph" />
-</div>
+---
 
 ## Snake Game
 
@@ -121,54 +109,43 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
   <img src="https://github.com/fatalmonk/fatalmonk/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
-## Live Status
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-00D4AA?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Currently-Building%20AI%20Solutions-4299E1?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B0-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" />
-</div>
+---
 
 ## Recent Accomplishments
 
-- **System Architecture**: Designed and implemented microservices architecture serving 1M+ users
-- **Performance Optimization**: Reduced API response times by 60% through strategic caching and optimization
-- **Security Implementation**: Led security audit and implemented OAuth 2.0 + JWT authentication
-- **Scalability**: Architected cloud-native solutions that auto-scale based on demand
-- **Team Leadership**: Mentored 5+ junior developers and established code review processes
+- **System Architecture**: Designed and implemented microservices architecture serving 1M+ users  
+- **Performance Optimization**: Reduced API response times by 60% through strategic caching  
+- **Security Implementation**: Led security audit and implemented OAuth 2.0 + JWT authentication  
+- **Scalability**: Architected cloud-native solutions that auto-scale based on demand  
+- **Team Leadership**: Mentored junior developers and established code review processes  
+
+---
 
 ## Featured Projects
 
 ### 🤖 AI-Powered Analytics Platform
-**Next-generation analytics platform with real-time AI insights**
-
-**Tech Stack:** React • TypeScript • Python • FastAPI • TensorFlow • PostgreSQL • Docker • AWS
-
-**Status:** 🟢 Live & Scaling
-
+**Next-generation analytics platform with real-time AI insights**  
+**Tech Stack:** React • TypeScript • Python • FastAPI • TensorFlow • PostgreSQL • Docker • AWS  
+**Status:** 🟢 Live & Scaling  
 **[View Project](https://github.com/fatalmonk/ai-analytics)** | **[Live Demo](https://ai-analytics.fatalmonk.dev)**
 
 ---
 
 ### ☁️ Cloud Migration Suite
-**Automated cloud migration toolkit for enterprise applications**
-
-**Tech Stack:** Go • Kubernetes • Terraform • Ansible • Prometheus • Grafana • Azure
-
-**Status:** 🟡 Beta Testing
-
+**Automated cloud migration toolkit for enterprise applications**  
+**Tech Stack:** Go • Kubernetes • Terraform • Ansible • Prometheus • Grafana • Azure  
+**Status:** 🟡 Beta Testing  
 **[View Project](https://github.com/fatalmonk/cloud-migration)** | **[Documentation](https://docs.cloud-migration.fatalmonk.dev)**
 
 ---
 
 ### 📱 Mobile Finance App
-**Cross-platform financial management application**
-
-**Tech Stack:** Flutter • Dart • Firebase • Node.js • Stripe • MongoDB • Google Cloud
-
-**Status:** 🟢 Production Ready
-
+**Cross-platform financial management application**  
+**Tech Stack:** Flutter • Dart • Firebase • Node.js • Stripe • MongoDB • Google Cloud  
+**Status:** 🟢 Production Ready  
 **[View Project](https://github.com/fatalmonk/finance-app)** | **[Download](https://play.google.com/store)**
+
+---
 
 ## Connect with Me
 
@@ -189,4 +166,4 @@ Passionate **Senior Software Engineer** with expertise in building scalable, hig
 
 ---
 
-**Last updated: 2025-10-20 06:18:46 UTC
+**Last updated: 2025-10-20 06:18:46 UTC**
