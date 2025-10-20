@@ -1,0 +1,31 @@
+name: 🕒 Auto Update README Timestamp
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight UTC
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update "Last updated" Timestamp
+        run: |
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          sed -i "s|^\\*\\*Last updated:.*|**Last updated: $DATE**|" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "⏰ Auto-update README timestamp: $(date -u +"%Y-%m-%d %H:%M:%S")" || echo "No changes to commit"
+          git push
