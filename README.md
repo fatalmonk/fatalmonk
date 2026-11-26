@@ -1,5 +1,10 @@
 # mac.alvi / fatalmonk
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-static.svg" />
+  <img src="./assets/profile-hero-animated.svg" alt="mac.alvi — Business and Engineering. Commerce, Manufacturing, Technology." width="883" />
+</picture>
+
 **Business operator · Product builder · Applied software & AI**
 
 Based in Chattogram, Bangladesh. I work across retail, ready-made garment manufacturing, and software—building systems around real operating needs rather than demo-only features.
