@@ -1,5 +1,3 @@
-# mac.alvi / fatalmonk
-
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-static.svg" />
   <img src="./assets/profile-hero-animated.svg" alt="mac.alvi — Building What Matters. Football, Manufacturing, Technology." width="883" />
