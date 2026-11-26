@@ -41,4 +41,4 @@ I like building useful stuff, trying new ideas, and seeing where they go.
 
 ---
 
-Last updated: 2026-11-27
+*with &lt;3 from Chittagong*
