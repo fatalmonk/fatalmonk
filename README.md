@@ -1,14 +1,9 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-static.svg" />
-  <img src="./assets/profile-hero-animated.svg" alt="mac.alvi — Building What Matters. Football, Manufacturing, Technology." width="883" />
+  <img src="./assets/profile-hero-animated.svg" alt="mac.alvi — Design, code &amp; football. Usually all at once. I love making things look good, feel smooth, and actually work." width="883" />
 </picture>
 
 <img src="./assets/pillars-strip.svg" alt="Animated illustrations of football, technology, and garment and fashion, with Chelsea-blue and gold accents." width="883" />
-
-**Design, code & football. Usually all at once.**
-
-I love making things look good, feel smooth, and actually work.
-
 ## Sites I've designed
 
 **[STRYV](https://stryv-xi.vercel.app/)** — Football-inspired streetwear. Bold visuals, motion, and an e-commerce experience built around the beautiful game. [Code](https://github.com/fatalmonk/STRYV)
