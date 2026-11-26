@@ -4,6 +4,7 @@
 </picture>
 
 <img src="./assets/pillars-strip.svg" alt="Animated illustrations of football, technology, and garment and fashion, with Chelsea-blue and gold accents." width="883" />
+
 ## Sites I've designed
 
 **[STRYV](https://stryv-xi.vercel.app/)** — Football-inspired streetwear. Bold visuals, motion, and an e-commerce experience built around the beautiful game. [Code](https://github.com/fatalmonk/STRYV)
