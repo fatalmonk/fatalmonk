@@ -16,10 +16,6 @@ Based in Chattogram, Bangladesh, I work across business operations and product d
 
 [Explore Lucky Store POS and web source](https://github.com/fatalmonk/luckystorePOS) · [Visit the Lucky Store storefront](https://luckystore1947.com)
 
-![Lucky Store POS admin dashboard, screenshot from the project's public repository](https://raw.githubusercontent.com/fatalmonk/luckystorePOS/main/assets/screenshots/admin-dashboard.png)
-
-*Lucky Store admin dashboard — project screenshot, not a claim of current deployment state.*
-
 ### Kattali Textile Limited — Garment manufacturing and digital systems
 
 **Business context:** KTL is a Bangladesh ready-made garment manufacturer and exporter. Manufacturing operations require visibility into production processes and clear, useful digital information.
@@ -27,10 +23,6 @@ Based in Chattogram, Bangladesh, I work across business operations and product d
 **Engineering:** Related public work includes a React/TypeScript/Vite company website and a separate production-analysis repository. These links document development work, not a claim that factory-wide analytics are deployed.
 
 [View KTL website code](https://github.com/fatalmonk/ktlbdOnline) · [View KTL production analysis](https://github.com/fatalmonk/KTL-Production-Analysis)
-
-![KTL website hero visual for the garment manufacturing business](https://raw.githubusercontent.com/fatalmonk/ktlbdOnline/main/apps/web/public/assets-optimized/hero-desktop.webp)
-
-*KTL website hero — optimized image from the public website repository.*
 
 ## Engineering and product explorations
 
