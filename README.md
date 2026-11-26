@@ -5,24 +5,24 @@
 
 <img src="./assets/pillars-strip.svg" alt="Animated illustrations of football, technology, and garment and fashion, with Chelsea-blue and gold accents." width="883" />
 
-**Business operator · Product builder · Applied software & AI**
+**Building businesses, exploring technology, and never too far from football.**
 
-Based in Chattogram, Bangladesh. I work across retail, ready-made garment manufacturing, and software—building systems around real operating needs rather than demo-only features.
+I'm based in Chattogram, Bangladesh, where my days move between retail, garment manufacturing, and software. I love finding ways to turn everyday challenges into things that actually work.
 
-My work connects **Lucky Store**, **Kattali Textile Limited (KTL)**, and emerging software initiatives. I focus on making commerce and factory operations more measurable, reliable, and accessible.
+From **Lucky Store** to **Kattali Textile Limited (KTL)**, I'm always curious about how a little thoughtful technology can make a real difference. And when I'm not thinking about business or code, there's a good chance I'm thinking about football.
 
 ## What I'm building
 
 | Project | What it does | Code / status |
 | --- | --- | --- |
-| **Lucky Store** | Retail point of sale, stock workflows, and an English/Bengali e-commerce storefront for a family retail business established in 1947. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
-| **Kattali Textile Limited** | Digital presence and operational analytics for a Bangladesh ready-made garment manufacturer and exporter. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
-| **StitchOS** | In-development manufacturing execution system exploring production events, work-in-progress visibility, and RFID-based traceability. | Private development |
-| **The Abusement Park** | Fantasy Premier League mini-league history dashboard featuring leaderboards, title records, and season archives. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
-| **STRYV** | Football-inspired streetwear e-commerce application. | [Repository](https://github.com/fatalmonk/STRYV) |
-| **For the Ummah** | Islamic puzzle catalogue with a staged, enquiry-only commerce flow. | [Repository](https://github.com/fatalmonk/fortheummah) |
+| **Lucky Store** | Helping a family retail business established in 1947 grow its digital side—with POS, stock workflows, and an English/Bengali storefront. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
+| **Kattali Textile Limited** | Bringing better digital tools and useful production insights to a Bangladesh ready-made garment manufacturer and exporter. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
+| **StitchOS** | A work in progress I'm excited about: exploring RFID, production events, and clearer visibility into factory work-in-progress. | Private development |
+| **The Abusement Park** | A bit of football obsession turned into an FPL mini-league history dashboard, with leaderboards, title records, and season archives. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
+| **STRYV** | Where football and fashion meet: a streetwear e-commerce project. | [Repository](https://github.com/fatalmonk/STRYV) |
+| **For the Ummah** | An Islamic puzzle catalogue with an enquiry-only shopping flow being built in stages. | [Repository](https://github.com/fatalmonk/fortheummah) |
 
-## Technology in my projects
+## Tools I enjoy working with
 
 **Selected technologies**
 
@@ -35,11 +35,11 @@ My work connects **Lucky Store**, **Kattali Textile Limited (KTL)**, and emergin
 - **Data and infrastructure:** PostgreSQL, Supabase, Redis, Docker, Cloudflare
 - **Focus areas:** bilingual retail UX, POS reliability, factory traceability, analytics, SEO, security, and AI-assisted engineering
 
-## How I approach projects
+## What matters to me
 
-I prioritize operational fit, testable changes, access controls, measurable performance, and clear separation between proposals, verified results, and production releases.
+I like building things people can genuinely use, not just something that looks good in a demo. The details matter to me: reliability, speed, sensible access controls, and testing before anything goes live.
 
-Much of my work is iterative. A public repository or prototype does **not** necessarily mean a feature is deployed or a business service is accepting orders.
+Some projects are still experiments or works in progress. A public repo doesn't necessarily mean a feature is live or a service is taking orders.
 
 ## Explore
 
