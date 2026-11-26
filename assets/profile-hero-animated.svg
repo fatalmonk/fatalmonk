@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 883 439" role="img" aria-labelledby="title desc">
-<title id="title">mac.alvi — Business and Engineering</title>
+<title id="title">mac.alvi — Building What Matters</title>
 <desc id="desc">Business and engineering; interests include football, manufacturing and technology.</desc>
 <rect width="883" height="439" fill="#111820"/>
 <text x="50" y="153" font-family="Arial,Helvetica,sans-serif" font-size="84" font-weight="700" fill="#FFFFFF">mac.alvi</text>
-<text x="52" y="235" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" fill="#FFFFFF">Business × Engineering</text><style>
+<text x="52" y="235" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" fill="#FFFFFF">Building What Matters</text><style>
 .football { animation: roll 4s ease-in-out 1 forwards; }
 @keyframes roll { 0% { transform: translateX(0px) rotate(0deg); } 100% { transform: translateX(432px) rotate(1080deg); } }
 @media (prefers-reduced-motion: reduce) { .football { animation: none; } }
