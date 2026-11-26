@@ -20,7 +20,7 @@ My work connects **Lucky Store**, **Kattali Textile Limited (KTL)**, and emergin
 | **Lucky Store** | Retail point of sale, stock workflows, and an English/Bengali e-commerce storefront for a family retail business established in 1947. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
 | **Kattali Textile Limited** | Digital presence and operational analytics for a Bangladesh ready-made garment manufacturer and exporter. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
 | **StitchOS** | In-development manufacturing execution system exploring production events, work-in-progress visibility, and RFID-based traceability. | Private development |
-| **Hermes Jev Skills** | Experiments with decision-model-assisted agent routing, retrieval, and workflow selection. | [Repository](https://github.com/fatalmonk/hermes-jev-skills) |
+| **The Abusement Park** | Fantasy Premier League mini-league history dashboard featuring leaderboards, title records, and season archives. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
 | **STRYV** | Football-inspired streetwear e-commerce application. | [Repository](https://github.com/fatalmonk/STRYV) |
 | **For the Ummah** | Islamic puzzle catalogue with a staged, enquiry-only commerce flow. | [Repository](https://github.com/fatalmonk/fortheummah) |
 
