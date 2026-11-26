@@ -9,11 +9,13 @@
 
 I love making things look good, feel smooth, and actually work.
 
-## A couple of sites I designed
+## Sites I've designed
 
 **[STRYV](https://stryv-xi.vercel.app/)** — Football-inspired streetwear. Bold visuals, motion, and an e-commerce experience built around the beautiful game. [Code](https://github.com/fatalmonk/STRYV)
 
 **[Kattali Textile](https://www.ktlbd.com/)** — A fresh look at garment manufacturing, from product-led visuals to factory stories and company information. [Code](https://github.com/fatalmonk/ktlbdOnline)
+
+**[The Abusement Park](https://the-abusement-park.pages.dev/)** — An FPL mini-league hall of fame, with leaderboards, title histories, and plenty of football nostalgia. [Code](https://github.com/fatalmonk/The-Abusement-Park)
 
 ## Things I'm working on
 
@@ -22,7 +24,7 @@ I love making things look good, feel smooth, and actually work.
 | **Lucky Store** | A Retail Operating System, with full e-commerce storefront and Full-Stack Inventory-FInancials-Suppliers management software for small-medium retail/groceries. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
 | **Kattali Textile Limited** | Designed its website, and I'm exploring better ways to make factory data useful. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
 | **StitchOS** | Exploring RFID and factory-floor tracking. Still in development. | Private development |
-| **The Abusement Park** | An FPL mini-league rabbit hole: leaderboards, title records, and seasons of memories. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
+| **The Abusement Park** | An FPL mini-league rabbit hole: leaderboards, title records, and seasons of memories. | [Website](https://the-abusement-park.pages.dev/) · [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
 | **STRYV** | My football-meets-fashion storefront, designed with strong visuals and movement. | [Repository](https://github.com/fatalmonk/STRYV) |
 | **For the Ummah** | Islamic puzzles, with an enquiry-only shop taking shape. | [Repository](https://github.com/fatalmonk/fortheummah) |
 
