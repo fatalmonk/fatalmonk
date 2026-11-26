@@ -13,7 +13,7 @@ I like building useful stuff, trying new ideas, and seeing where they go.
 
 | Project | What it does | Code / status |
 | --- | --- | --- |
-| **Lucky Store** | A family store since 1947, with POS, stock tools, and an English/Bengali storefront. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
+| **Lucky Store** | A Retail Operating System, with full e-commerce storefront and Full-Stack Inventory-FInancials-Suppliers management software for small-medium retail/groceries. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
 | **Kattali Textile Limited** | Making factory data more useful and building a better digital presence for an RMG manufacturer and exporter. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
 | **StitchOS** | Exploring RFID and factory-floor tracking. Still in development. | Private development |
 | **The Abusement Park** | An FPL mini-league rabbit hole: leaderboards, title records, and seasons of memories. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
