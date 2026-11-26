@@ -1,41 +1,47 @@
-# mac.alvi | Retail, Manufacturing & Technology
+# mac.alvi | Business Operations & Software Engineering
 
-**I turn retail and garment-manufacturing workflows into practical software.**
+**Building software around real retail, manufacturing, and AI workflows.**
 
-Based in Chattogram, Bangladesh, I work across business operations and product development. My current focus is the Lucky Store retail platform and digital projects for Kattali Textile Limited (KTL).
+Based in Chattogram, Bangladesh, I work across business operations and product development. My focus is connecting day-to-day operating needs with practical engineering: reliable checkout, clearer inventory and production workflows, and verifiable software changes.
 
-**Start here:** [Explore Lucky Store POS](https://github.com/fatalmonk/luckystorePOS) · [Explore KTL website code](https://github.com/fatalmonk/ktlbdOnline)
+**Explore the work:** [Lucky Store platform code](https://github.com/fatalmonk/luckystorePOS) · [KTL website source](https://github.com/fatalmonk/ktlbdOnline) · [Hermes Jev Skills repository](https://github.com/fatalmonk/hermes-jev-skills)
 
-## Featured work
+## Business problems, engineering solutions
 
-### Lucky Store — Retail operations and commerce
+### Lucky Store — Retail operations and software
 
-Lucky Store is a Chattogram retail business established in 1947. Its software projects cover point of sale, stock workflows, and an English/Bengali e-commerce storefront.
+**Business context:** Lucky Store is a Chattogram retail business established in 1947, with point-of-sale, inventory, and e-commerce needs.
 
-- [View the Lucky Store POS and storefront code](https://github.com/fatalmonk/luckystorePOS)
-- [Visit the Lucky Store storefront](https://luckystore1947.com)
+**Engineering:** Its public software repository includes Flutter POS development, React/Next.js web applications, a Supabase-backed data layer, and English/Bengali shopping experiences.
 
-### Kattali Textile Limited — Garment manufacturing
+[Explore Lucky Store POS and web source](https://github.com/fatalmonk/luckystorePOS) · [Visit the Lucky Store storefront](https://luckystore1947.com)
 
-KTL is a Bangladesh ready-made garment manufacturer and exporter. My related public projects focus on the company's digital presence and production analysis.
+### Kattali Textile Limited — Garment manufacturing and digital systems
 
-- [View the KTL website source](https://github.com/fatalmonk/ktlbdOnline)
-- [Explore KTL production analysis](https://github.com/fatalmonk/KTL-Production-Analysis)
+**Business context:** KTL is a Bangladesh ready-made garment manufacturer and exporter. Manufacturing operations require visibility into production processes and clear, useful digital information.
 
-## Other projects
+**Engineering:** Related public work includes a React/TypeScript/Vite company website and a separate production-analysis repository. These links document development work, not a claim that factory-wide analytics are deployed.
 
-- **StitchOS** — Manufacturing execution system in private development, exploring production events, work-in-progress visibility, and RFID traceability.
-- **Hermes Jev Skills** — Agent decision-model experiments for routing, retrieval, and workflow selection. [Explore Hermes Jev Skills](https://github.com/fatalmonk/hermes-jev-skills).
-- **STRYV** — Football-inspired streetwear e-commerce application. [View STRYV source](https://github.com/fatalmonk/STRYV).
-- **For the Ummah** — Islamic puzzle catalogue with an enquiry-only commerce flow. [View For the Ummah source](https://github.com/fatalmonk/fortheummah).
+[View KTL website code](https://github.com/fatalmonk/ktlbdOnline) · [View KTL production analysis](https://github.com/fatalmonk/KTL-Production-Analysis)
 
-## Technology and working principles
+## Engineering and product explorations
 
-My projects use **TypeScript, React, Next.js, Flutter, Python, FastAPI, PostgreSQL, Supabase, Redis, Docker, and Cloudflare**.
+- **StitchOS:** Manufacturing execution system in private development, exploring production events, work-in-progress visibility, and RFID traceability.
+- **Hermes Jev Skills:** Exploring decision-model-assisted agent routing, retrieval, and task selection. [Read the Hermes Jev Skills code](https://github.com/fatalmonk/hermes-jev-skills).
+- **STRYV:** Football-inspired streetwear e-commerce application. [Explore STRYV source](https://github.com/fatalmonk/STRYV).
+- **For the Ummah:** Islamic puzzle catalogue with an enquiry-only commerce flow. [Explore the For the Ummah repository](https://github.com/fatalmonk/fortheummah).
 
-I prioritize usable workflows, testable changes, access controls, performance, and clear distinctions between proposals, verified features, and production releases. A public repository does not necessarily mean every feature is deployed.
+## Technical focus
 
-[Browse all public repositories](https://github.com/fatalmonk?tab=repositories)
+**Applications:** TypeScript, React, Next.js, Flutter, Python, FastAPI.
+
+**Data and infrastructure:** PostgreSQL, Supabase, Redis, Docker, Cloudflare.
+
+**Engineering priorities:** Operational fit, security, performance, maintainable code, testing, and separating proposals from verified releases.
+
+A public repository does not imply that every feature is in production or that a business service accepts orders.
+
+[Browse my GitHub repositories](https://github.com/fatalmonk?tab=repositories)
 
 ---
 
