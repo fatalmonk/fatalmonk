@@ -5,6 +5,8 @@
   <img src="./assets/profile-hero-animated.svg" alt="mac.alvi — Building What Matters. Football, Manufacturing, Technology." width="883" />
 </picture>
 
+<img src="./assets/pillars-strip.svg" alt="Animated illustrations of football, technology, and garment and fashion, with Chelsea-blue and gold accents." width="883" />
+
 **Business operator · Product builder · Applied software & AI**
 
 Based in Chattogram, Bangladesh. I work across retail, ready-made garment manufacturing, and software—building systems around real operating needs rather than demo-only features.
@@ -47,4 +49,4 @@ Much of my work is iterative. A public repository or prototype does **not** nece
 
 ---
 
-Last updated: 2026-11-26
+Last updated: 2026-11-27
