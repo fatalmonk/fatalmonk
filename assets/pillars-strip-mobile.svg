@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 438" role="img" aria-labelledby="title desc">
+  <title id="title">Football, technology, and garment manufacturing</title>
+  <desc id="desc">Three vertically stacked illustration panels for narrow screens. The illustrations are static.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#034694" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#034694" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .card { fill:#0B0B0D;stroke:#333944;stroke-width:1.4; }
+    .title { font:700 18px -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;letter-spacing:.7px;fill:#FDFBF7; }
+    .sub { font:400 14px -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#BBC7D5; }
+  </style>
+  <g>
+    <rect class="card" x="8" y="8" width="374" height="130" rx="12"/>
+    <rect x="9" y="9" width="372" height="128" rx="11" fill="url(#blue)"/>
+    <path d="M33 93 Q72 29 113 85" stroke="#034694" stroke-width="2.5" fill="none" stroke-dasharray="4 4"/>
+    <circle cx="113" cy="85" r="8" fill="#FDFBF7" stroke="#F0C444" stroke-width="2"/>
+    <circle cx="66" cy="69" r="26" fill="#0D1522" stroke="#034694" stroke-width="2"/>
+    <circle cx="66" cy="69" r="21" fill="none" stroke="#F0C444" stroke-width="1"/>
+    <text x="66" y="74" font-family="Georgia,serif" font-size="13" font-weight="700" text-anchor="middle" fill="#FDFBF7">CFC</text>
+    <text x="143" y="57" class="title">FOOTBALL</text>
+    <text x="143" y="83" class="sub">Chelsea blue</text>
+    <text x="143" y="102" class="sub">Tactical mindset</text>
+  </g>
+  <g transform="translate(0 146)">
+    <rect class="card" x="8" y="8" width="374" height="130" rx="12"/>
+    <g stroke="#034694" stroke-width="2.4" fill="none" stroke-linejoin="round">
+      <path d="M26 46 H48 L56 57 H66 M26 92 H47 L56 78 H66 M110 57 H122 L132 46 H148 M110 78 H122 L132 92 H148"/>
+    </g>
+    <rect x="65" y="43" width="48" height="48" rx="7" fill="#141923" stroke="#034694" stroke-width="2"/>
+    <rect x="76" y="54" width="26" height="26" rx="4" fill="#0B0B0D" stroke="#F0C444" stroke-width="1.5"/>
+    <circle cx="89" cy="67" r="5" fill="#034694"/>
+    <text x="164" y="57" class="title">TECHNOLOGY</text>
+    <text x="164" y="83" class="sub">Applied AI</text>
+    <text x="164" y="102" class="sub">Retail systems &amp; POS</text>
+  </g>
+  <g transform="translate(0 292)">
+    <rect class="card" x="8" y="8" width="374" height="130" rx="12"/>
+    <path d="M43 40 L57 30 L68 37 L80 30 L94 40 L108 63 L96 70 L90 57 L90 104 L48 104 L48 57 L42 70 L30 63 Z" fill="#181B23" stroke="#566374" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M48 57 V104 H90 V57 M57 30 L68 37 L80 30 M68 37 V104" fill="none" stroke="#F0C444" stroke-width="1.6" stroke-dasharray="4 4" stroke-linecap="round"/>
+    <rect x="62" y="47" width="12" height="5" rx="1" fill="#034694"/>
+    <text x="130" y="52" class="title">GARMENT &amp;</text>
+    <text x="130" y="75" class="title">FASHION</text>
+    <text x="130" y="101" class="sub">Manufacturing &amp; export</text>
+  </g>
+</svg>
