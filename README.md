@@ -5,24 +5,24 @@
 
 <img src="./assets/pillars-strip.svg" alt="Animated illustrations of football, technology, and garment and fashion, with Chelsea-blue and gold accents." width="883" />
 
-**Building businesses, exploring technology, and never too far from football.**
+**Retail, tech & football. Pretty much my three tabs.**
 
-I'm based in Chattogram, Bangladesh, where my days move between retail, garment manufacturing, and software. I love finding ways to turn everyday challenges into things that actually work.
+I like building useful stuff, trying new ideas, and seeing where they go.
 
-From **Lucky Store** to **Kattali Textile Limited (KTL)**, I'm always curious about how a little thoughtful technology can make a real difference. And when I'm not thinking about business or code, there's a good chance I'm thinking about football.
-
-## What I'm building
+## Things I'm working on
 
 | Project | What it does | Code / status |
 | --- | --- | --- |
-| **Lucky Store** | Helping a family retail business established in 1947 grow its digital side—with POS, stock workflows, and an English/Bengali storefront. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
-| **Kattali Textile Limited** | Bringing better digital tools and useful production insights to a Bangladesh ready-made garment manufacturer and exporter. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
-| **StitchOS** | A work in progress I'm excited about: exploring RFID, production events, and clearer visibility into factory work-in-progress. | Private development |
-| **The Abusement Park** | A bit of football obsession turned into an FPL mini-league history dashboard, with leaderboards, title records, and season archives. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
-| **STRYV** | Where football and fashion meet: a streetwear e-commerce project. | [Repository](https://github.com/fatalmonk/STRYV) |
-| **For the Ummah** | An Islamic puzzle catalogue with an enquiry-only shopping flow being built in stages. | [Repository](https://github.com/fatalmonk/fortheummah) |
+| **Lucky Store** | A family store since 1947, with POS, stock tools, and an English/Bengali storefront. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
+| **Kattali Textile Limited** | Making factory data more useful and building a better digital presence for an RMG manufacturer and exporter. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
+| **StitchOS** | Exploring RFID and factory-floor tracking. Still in development. | Private development |
+| **The Abusement Park** | An FPL mini-league rabbit hole: leaderboards, title records, and seasons of memories. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
+| **STRYV** | Football meets streetwear. An e-commerce side project. | [Repository](https://github.com/fatalmonk/STRYV) |
+| **For the Ummah** | Islamic puzzles, with an enquiry-only shop taking shape. | [Repository](https://github.com/fatalmonk/fortheummah) |
 
-## Tools I enjoy working with
+*Some are works in progress—not everything is live yet.*
+
+## Tools I use
 
 **Selected technologies**
 
@@ -35,13 +35,7 @@ From **Lucky Store** to **Kattali Textile Limited (KTL)**, I'm always curious ab
 - **Data and infrastructure:** PostgreSQL, Supabase, Redis, Docker, Cloudflare
 - **Focus areas:** bilingual retail UX, POS reliability, factory traceability, analytics, SEO, security, and AI-assisted engineering
 
-## What matters to me
-
-I like building things people can genuinely use, not just something that looks good in a demo. The details matter to me: reliability, speed, sensible access controls, and testing before anything goes live.
-
-Some projects are still experiments or works in progress. A public repo doesn't necessarily mean a feature is live or a service is taking orders.
-
-## Explore
+## More links
 
 [GitHub repositories](https://github.com/fatalmonk?tab=repositories) · [Lucky Store](https://luckystore1947.com) · [Lucky Store POS](https://github.com/fatalmonk/luckystorePOS) · [KTL website code](https://github.com/fatalmonk/ktlbdOnline)
 
