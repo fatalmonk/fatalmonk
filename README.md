@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-static.svg" />
-  <img src="./assets/profile-hero-animated.svg" alt="mac.alvi — Business and Engineering. Commerce, Manufacturing, Technology." width="883" />
+  <img src="./assets/profile-hero-animated.svg" alt="mac.alvi — Business and Engineering. Football, Manufacturing, Technology." width="883" />
 </picture>
 
 **Business operator · Product builder · Applied software & AI**
