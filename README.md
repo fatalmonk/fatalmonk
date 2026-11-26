@@ -5,19 +5,25 @@
 
 <img src="./assets/pillars-strip.svg" alt="Animated illustrations of football, technology, and garment and fashion, with Chelsea-blue and gold accents." width="883" />
 
-**Retail, tech & football. Pretty much my three tabs.**
+**Design, code & football. Usually all at once.**
 
-I like building useful stuff, trying new ideas, and seeing where they go.
+I love making things look good, feel smooth, and actually work.
+
+## A couple of sites I designed
+
+**[STRYV](https://stryv-xi.vercel.app/)** — Football-inspired streetwear. Bold visuals, motion, and an e-commerce experience built around the beautiful game. [Code](https://github.com/fatalmonk/STRYV)
+
+**[Kattali Textile](https://www.ktlbd.com/)** — A fresh look at garment manufacturing, from product-led visuals to factory stories and company information. [Code](https://github.com/fatalmonk/ktlbdOnline)
 
 ## Things I'm working on
 
 | Project | What it does | Code / status |
 | --- | --- | --- |
 | **Lucky Store** | A Retail Operating System, with full e-commerce storefront and Full-Stack Inventory-FInancials-Suppliers management software for small-medium retail/groceries. | [luckystorePOS](https://github.com/fatalmonk/luckystorePOS) · [Storefront](https://luckystore1947.com) |
-| **Kattali Textile Limited** | Making factory data more useful and building a better digital presence for an RMG manufacturer and exporter. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
+| **Kattali Textile Limited** | Designed its website, and I'm exploring better ways to make factory data useful. | [ktlbdOnline](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis) |
 | **StitchOS** | Exploring RFID and factory-floor tracking. Still in development. | Private development |
 | **The Abusement Park** | An FPL mini-league rabbit hole: leaderboards, title records, and seasons of memories. | [Repository](https://github.com/fatalmonk/The-Abusement-Park) |
-| **STRYV** | Football meets streetwear. An e-commerce side project. | [Repository](https://github.com/fatalmonk/STRYV) |
+| **STRYV** | My football-meets-fashion storefront, designed with strong visuals and movement. | [Repository](https://github.com/fatalmonk/STRYV) |
 | **For the Ummah** | Islamic puzzles, with an enquiry-only shop taking shape. | [Repository](https://github.com/fatalmonk/fortheummah) |
 
 *Some are works in progress—not everything is live yet.*
@@ -30,6 +36,7 @@ I like building useful stuff, trying new ideas, and seeing where they go.
 
 <sub>Badges from [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile); technologies used across projects, not certifications or endorsements.</sub>
 
+- **Design:** Visual direction, responsive UI, motion, and e-commerce experiences
 - **Web:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
 - **Apps and services:** Flutter, Dart, Python, FastAPI
 - **Data and infrastructure:** PostgreSQL, Supabase, Redis, Docker, Cloudflare
