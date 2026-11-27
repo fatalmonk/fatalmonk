@@ -25,15 +25,15 @@
   <text x="74" y="42" fill="#BFCBDA" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2.4">FATALMONK  /  PERSONAL PORTFOLIO</text>
   <text x="907" y="42" fill="#96ABC5" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.2">CHITTAGONG  ·  BD</text>
   <!-- Finite-offset layered lettering: depth survives SVG animation sanitization. -->
-  <text x="56" y="170" fill="#08152A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <text x="54" y="168" fill="#23518A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <text x="52" y="166" fill="#397BC9" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <text x="51" y="164" fill="#F7FAFE" stroke="#E8F2FE" stroke-width=".35" paint-order="stroke" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <path d="M54 183H216" stroke="#347DDB" stroke-width="5" stroke-linecap="round"/>
-  <text x="56" y="235" fill="#102B4A" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">Pixels, products &amp;</text>
-  <text x="53" y="231" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">Pixels, products &amp;</text>
-  <text x="56" y="276" fill="#614B1C" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">the beautiful game.</text>
-  <text x="53" y="272" fill="#F0C444" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">the beautiful game.</text>
+  <text x="56" y="166" fill="#08152A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
+  <text x="54" y="164" fill="#23518A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
+  <text x="52" y="162" fill="#397BC9" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
+  <text x="51" y="160" fill="#F7FAFE" stroke="#E8F2FE" stroke-width=".35" paint-order="stroke" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
+  <path d="M54 180H264" stroke="#347DDB" stroke-width="5" stroke-linecap="round"/>
+  <text x="57" y="222" fill="#102B4A" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">Pixels, products &amp;</text>
+  <text x="53" y="218" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">Pixels, products &amp;</text>
+  <text x="57" y="256" fill="#614B1C" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">the beautiful game.</text>
+  <text x="53" y="252" fill="#F0C444" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">the beautiful game.</text>
   <!-- Elevated tactical field: cast shadow, stacked metal edge, lit face. -->
   <rect x="714" y="110" width="211" height="224" rx="15" fill="#000510" opacity=".78" filter="url(#depthBlur)"/>
   <path d="M704 306 L916 306 L926 319 L714 319 Z" fill="#152E4B"/>
