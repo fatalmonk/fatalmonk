@@ -1,9 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 356" role="img" aria-labelledby="title desc">
 <title id="title">mac.alvi — Pixels, products &amp; the beautiful game.</title>
-<desc id="desc">Dark editorial banner with a Chelsea-blue football passing arc.</desc>
+<desc id="desc">Raised editorial lettering with a layered football tactics panel in Chelsea blue and gold.</desc>
 <defs>
   <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#203049" stroke-width=".8"/></pattern>
   <clipPath id="frame"><rect width="960" height="356" rx="17"/></clipPath>
+  <linearGradient id="fieldFace" x1="0" y1="0" x2=".9" y2="1">
+    <stop offset="0" stop-color="#233C5A"/><stop offset=".45" stop-color="#132740"/><stop offset="1" stop-color="#0D1A2B"/>
+  </linearGradient>
+  <linearGradient id="fieldRim" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#3E7BB9"/><stop offset="1" stop-color="#142943"/>
+  </linearGradient>
+  <filter id="depthBlur" x="-25%" y="-25%" width="160%" height="170%">
+    <feGaussianBlur stdDeviation="7"/>
+  </filter>
 </defs>
 
 <g clip-path="url(#frame)">
@@ -15,11 +24,25 @@
   <circle cx="58" cy="36" r="5" fill="#F0C444"/>
   <text x="74" y="42" fill="#BFCBDA" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2.4">FATALMONK  /  PERSONAL PORTFOLIO</text>
   <text x="907" y="42" fill="#96ABC5" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.2">CHITTAGONG  ·  BD</text>
-  <text x="51" y="164" fill="#F7FAFE" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-5">mac.alvi</text>
+  <!-- Finite-offset layered lettering: depth survives SVG animation sanitization. -->
+  <text x="56" y="170" fill="#08152A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
+  <text x="54" y="168" fill="#23518A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
+  <text x="52" y="166" fill="#397BC9" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
+  <text x="51" y="164" fill="#F7FAFE" stroke="#E8F2FE" stroke-width=".35" paint-order="stroke" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
   <path d="M54 183H216" stroke="#347DDB" stroke-width="5" stroke-linecap="round"/>
+  <text x="56" y="235" fill="#102B4A" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">Pixels, products &amp;</text>
   <text x="53" y="231" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">Pixels, products &amp;</text>
+  <text x="56" y="276" fill="#614B1C" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">the beautiful game.</text>
   <text x="53" y="272" fill="#F0C444" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">the beautiful game.</text>
-  <rect x="702" y="89" width="212" height="228" rx="12" fill="#101C2C" stroke="#274363" stroke-width="1.4"/>
+  <!-- Elevated tactical field: cast shadow, stacked metal edge, lit face. -->
+  <rect x="714" y="110" width="211" height="224" rx="15" fill="#000510" opacity=".78" filter="url(#depthBlur)"/>
+  <path d="M704 306 L916 306 L926 319 L714 319 Z" fill="#152E4B"/>
+  <path d="M915 90 L926 102 L926 319 L915 306 Z" fill="#0E2036"/>
+  <g class="elevated-field">
+    <rect x="702" y="89" width="212" height="228" rx="12" fill="url(#fieldFace)" stroke="url(#fieldRim)" stroke-width="1.5"/>
+    <path d="M713 101H902 M713 101V306" fill="none" stroke="#6BA5E3" stroke-width="1" opacity=".55"/>
+    <path d="M716 108H905V297" fill="none" stroke="#2E5B88" stroke-width=".8" opacity=".5"/>
+  </g>
   <path d="M808 89V317 M702 203H914" stroke="#2D4F71" stroke-width="1"/>
   <circle cx="808" cy="203" r="39" fill="none" stroke="#2D4F71" stroke-width="1"/>
   <path d="M702 145H730V261H702 M914 145H885V261H914" fill="none" stroke="#2D4F71" stroke-width="1.3"/>
