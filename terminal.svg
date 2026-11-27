@@ -41,5 +41,5 @@
 <text x="70" y="235" font-family="Menlo,Consolas,Monaco,monospace" font-size="16" fill="#EAF3FD">04  Software       interfaces, workflows, automation</text>
 <path d="M70 249H838" stroke="#294563" stroke-width="1"/>
 <text x="70" y="272" font-family="Menlo,Consolas,Monaco,monospace" font-size="15.5" fill="#7FB8F5">$ echo "where operations meet product design"</text>
-<rect class="cursor" x="470" y="257" width="10" height="18" rx="1.5" fill="#F0C444"/>
+<rect class="cursor" x="506" y="257" width="10" height="18" rx="1.5" fill="#F0C444"/>
 </svg>
