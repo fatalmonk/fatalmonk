@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 303" role="img" aria-labelledby="heading detail">
+<title id="heading">Technology stack: interfaces, services, data and edge</title>
+<desc id="detail">Elevated dark blue panels for interfaces, services, and data and edge. Technologies include TypeScript, React, Next.js, Flutter, Tailwind CSS, Python, FastAPI, Redis, PostgreSQL, Supabase, Docker, and Cloudflare.</desc>
+<defs>
+ <linearGradient id="face" x1="0" y1="0" x2=".85" y2="1">
+  <stop stop-color="#203C5B"/><stop offset=".45" stop-color="#142A45"/><stop offset="1" stop-color="#0C1E34"/>
+ </linearGradient>
+ <filter id="blur" x="-20%" y="-25%" width="160%" height="170%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<style>
+ .trace { stroke-dasharray:105 800; stroke-dashoffset:0; animation:connect 4.5s ease-out 1 both; }
+ @keyframes connect { from { stroke-dashoffset:105; } to { stroke-dashoffset:0; } }
+ @media (prefers-reduced-motion: reduce) { .trace { animation:none!important; } }
+</style>
+<rect width="960" height="303" rx="15" fill="#0A1019"/>
+<text x="18" y="32" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="1.6" fill="#C7D7EB">THE WORKING STACK</text>
+<path d="M219 27H939" stroke="#283F59" stroke-width="1"/>
+<path class="trace" d="M219 27H939" stroke="#488FDC" stroke-width="2"/>
+<g>
+  <rect x="31" y="78" width="289" height="197" rx="13" fill="#00040A" opacity=".7" filter="url(#blur)"/>
+  <path d="M22 244H306L319 258H35Z" fill="#183A5A"/>
+  <path d="M302 61L319 77V258L302 244Z" fill="#0B2744"/>
+  <rect x="18" y="56" width="294" height="202" rx="13" fill="url(#face)" stroke="#4374A3" stroke-width="1.3"/>
+  <path d="M34 57H296" stroke="#8BBFF5" stroke-width="1" opacity=".64"/>
+  <rect x="35" y="74" width="39" height="34" rx="5" fill="#102C4B" stroke="#F0C444" stroke-width="1.3"/>
+  <text x="54.5" y="97" font-size="17" font-weight="700" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#FFFFFF">01</text>
+  <text x="37" y="150" fill="#16436C" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing="-.5">INTERFACES</text>
+  <text x="34" y="147" fill="#F7FBFF" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing="-.5">INTERFACES</text>
+  <path d="M35 165H295" stroke="#355979" stroke-width="1"/>
+  <path d="M35 165H111" stroke="#F0C444" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="35" y="195" font-family="Arial,Helvetica,sans-serif" fill="#D5E1F0" font-size="16">TypeScript · React · Next.js</text>
+  <text x="35" y="222" font-family="Arial,Helvetica,sans-serif" fill="#D5E1F0" font-size="16">Flutter · Tailwind CSS</text>
+ </g>
+<g>
+  <rect x="347" y="73" width="288" height="202" rx="13" fill="#00040A" opacity=".7" filter="url(#blur)"/>
+  <path d="M338 244H621L634 258H351Z" fill="#183A5A"/>
+  <path d="M617 56L634 72V258L617 244Z" fill="#0B2744"/>
+  <rect x="334" y="51" width="293" height="207" rx="13" fill="url(#face)" stroke="#4374A3" stroke-width="1.3"/>
+  <path d="M350 52H611" stroke="#8BBFF5" stroke-width="1" opacity=".64"/>
+  <rect x="351" y="69" width="39" height="34" rx="5" fill="#102C4B" stroke="#559CEB" stroke-width="1.3"/>
+  <text x="370.5" y="92" font-size="17" font-weight="700" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#FFFFFF">02</text>
+  <text x="353" y="145" fill="#16436C" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing="-.5">SERVICES</text>
+  <text x="350" y="142" fill="#F7FBFF" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing="-.5">SERVICES</text>
+  <path d="M351 160H610" stroke="#355979" stroke-width="1"/>
+  <path d="M351 160H427" stroke="#559CEB" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="351" y="190" font-family="Arial,Helvetica,sans-serif" fill="#D5E1F0" font-size="16">Python · FastAPI · Redis</text>
+  <text x="351" y="217" font-family="Arial,Helvetica,sans-serif" fill="#D5E1F0" font-size="16">APIs and integrations</text>
+ </g>
+<g>
+  <rect x="662" y="78" width="287" height="197" rx="13" fill="#00040A" opacity=".7" filter="url(#blur)"/>
+  <path d="M653 244H935L948 258H666Z" fill="#183A5A"/>
+  <path d="M931 61L948 77V258L931 244Z" fill="#0B2744"/>
+  <rect x="649" y="56" width="292" height="202" rx="13" fill="url(#face)" stroke="#4374A3" stroke-width="1.3"/>
+  <path d="M665 57H925" stroke="#8BBFF5" stroke-width="1" opacity=".64"/>
+  <rect x="666" y="74" width="39" height="34" rx="5" fill="#102C4B" stroke="#F0C444" stroke-width="1.3"/>
+  <text x="685.5" y="97" font-size="17" font-weight="700" font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="#FFFFFF">03</text>
+  <text x="668" y="150" fill="#16436C" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing="-.5">DATA &amp; EDGE</text>
+  <text x="665" y="147" fill="#F7FBFF" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing="-.5">DATA &amp; EDGE</text>
+  <path d="M666 165H924" stroke="#355979" stroke-width="1"/>
+  <path d="M666 165H742" stroke="#F0C444" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="666" y="195" font-family="Arial,Helvetica,sans-serif" fill="#D5E1F0" font-size="16">PostgreSQL · Supabase</text>
+  <text x="666" y="222" font-family="Arial,Helvetica,sans-serif" fill="#D5E1F0" font-size="16">Docker · Cloudflare</text>
+ </g>
+<text x="18" y="286" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.4" fill="#95ADC9">SELECTED TOOLS  /  NOT AN EXHAUSTIVE INVENTORY</text>
+</svg>

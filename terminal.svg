@@ -1,61 +1,45 @@
-<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <rect x="10" y="10" width="780" height="280" rx="10" fill="#1a1a2e" stroke="#00fff0" stroke-width="2" filter="url(#glow)"/>
-  <rect x="10" y="10" width="780" height="35" rx="10 10 0 0" fill="#16213e"/>
-  
-  <!-- Terminal buttons -->
-  <circle cx="35" cy="27" r="5" fill="#ff5f56"/>
-  <circle cx="55" cy="27" r="5" fill="#ffbd2e"/>
-  <circle cx="75" cy="27" r="5" fill="#27ca3f"/>
-  
-  <text x="400" y="32" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">fatalmonk@github:~$</text>
-  
-  <!-- Animated content -->
-  <text x="25" y="70" font-family="monospace" font-size="14" fill="#00fff0">
-    <tspan>$ cat about.txt</tspan>
-  </text>
-  
-  <text x="25" y="95" font-family="monospace" font-size="14" fill="#00fff0">
-    <tspan>Full-Stack Developer | Cloud Architect</tspan>
-    <animate attributeName="opacity" values="0;1" dur="1s" begin="1s" fill="freeze"/>
-  </text>
-  
-  <text x="25" y="120" font-family="monospace" font-size="14" fill="#27ca3f">
-    <tspan>✓ AI-Powered Analytics Platform</tspan>
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="2s" fill="freeze"/>
-  </text>
-  
-  <text x="25" y="145" font-family="monospace" font-size="14" fill="#27ca3f">
-    <tspan>✓ Cloud Migration Suite</tspan>
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="2.5s" fill="freeze"/>
-  </text>
-  
-  <text x="25" y="170" font-family="monospace" font-size="14" fill="#27ca3f">
-    <tspan>✓ Mobile Finance App</tspan>
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="3s" fill="freeze"/>
-  </text>
-  
-  <text x="25" y="205" font-family="monospace" font-size="14" fill="#ff00ff">
-    <tspan>$ echo "Open for collaboration!"</tspan>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="4s" fill="freeze"/>
-  </text>
-  
-  <text x="25" y="230" font-family="monospace" font-size="14" fill="#00fff0">
-    <tspan>Ready to build the future 🚀</tspan>
-    <animate attributeName="opacity" values="0;1" dur="1s" begin="5s" fill="freeze"/>
-  </text>
-  
-  <!-- Blinking cursor -->
-  <rect x="25" y="245" width="12" height="16" fill="#00fff0">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" begin="6s"/>
-  </rect>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 335" role="img" aria-labelledby="title desc">
+<title id="title">Operational terminal — Lucky Store, KTL, StitchOS, software engineering</title>
+<desc id="desc">A dimensional terminal in navy, Chelsea blue, and gold. It describes retail operations and point of sale at Lucky Store, manufacturing website and analysis at KTL, the developing StitchOS system, and software engineering work.</desc>
+<defs>
+  <linearGradient id="shell" x1="0" y1="0" x2=".9" y2="1">
+    <stop offset="0" stop-color="#1B3451"/><stop offset=".45" stop-color="#12263D"/><stop offset="1" stop-color="#0A1828"/>
+  </linearGradient>
+  <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#1F3A59"/><stop offset="1" stop-color="#12263D"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="150%" height="170%">
+    <feGaussianBlur stdDeviation="9"/>
+  </filter>
+</defs>
+<style>
+  .trace { stroke-dasharray:128 550; animation:trace 4.2s ease-out 1 both; }
+  .cursor { animation:blink 1.1s step-end 3; }
+  @keyframes trace { from { stroke-dashoffset:128; } to { stroke-dashoffset:0; } }
+  @keyframes blink { 50% { opacity:0; } }
+  @media (prefers-reduced-motion: reduce) {
+    .trace,.cursor { animation:none !important; }
+  }
+</style>
+<rect width="960" height="335" rx="18" fill="#0A1019"/>
+<rect x="57" y="51" width="849" height="243" rx="18" fill="#020710" opacity=".7" filter="url(#shadow)"/>
+<path d="M54 277H870L906 312H90Z" fill="#14324F"/>
+<path d="M870 68L906 96V312L870 277Z" fill="#0C2239"/>
+<rect x="42" y="38" width="828" height="251" rx="16" fill="url(#shell)" stroke="#3E6995" stroke-width="1.5"/>
+<path d="M43 54Q43 39 60 39H852Q869 39 869 54V76H43Z" fill="url(#topbar)"/>
+<path d="M43 76H869" stroke="#315375" stroke-width="1"/>
+<path d="M60 77H852" stroke="#6FA8E2" stroke-width="1" opacity=".35"/>
+<circle cx="70" cy="57" r="6" fill="#F05D5E"/>
+<circle cx="92" cy="57" r="6" fill="#F0C444"/>
+<circle cx="114" cy="57" r="6" fill="#52C272"/>
+<text x="456" y="62" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.3" fill="#C8D9EB">fatalmonk@portfolio:~$ current-work</text>
+<text x="70" y="108" font-family="Menlo,Consolas,Monaco,monospace" font-size="16" fill="#F0C444">$ ls current_work</text>
+<path class="trace" d="M250 102H827" stroke="#4E9BED" stroke-width="2"/>
+<text x="70" y="142" font-family="Menlo,Consolas,Monaco,monospace" font-size="16" fill="#EAF3FD">01  Lucky Store    retail storefront, POS, operations</text>
+<text x="70" y="173" font-family="Menlo,Consolas,Monaco,monospace" font-size="16" fill="#EAF3FD">02  KTL            manufacturing website, production analysis</text>
+<text x="70" y="204" font-family="Menlo,Consolas,Monaco,monospace" font-size="16" fill="#EAF3FD">03  StitchOS       factory visibility (in development)</text>
+<text x="70" y="235" font-family="Menlo,Consolas,Monaco,monospace" font-size="16" fill="#EAF3FD">04  Software       interfaces, workflows, automation</text>
+<path d="M70 249H838" stroke="#294563" stroke-width="1"/>
+<text x="70" y="272" font-family="Menlo,Consolas,Monaco,monospace" font-size="15.5" fill="#7FB8F5">$ echo "where operations meet product design"</text>
+<rect class="cursor" x="506" y="257" width="10" height="18" rx="1.5" fill="#F0C444"/>
 </svg>
