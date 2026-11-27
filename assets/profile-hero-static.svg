@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 356" role="img" aria-labelledby="title desc">
-<title id="title">mac.alvi — Design, code and football. Usually all at once.</title>
+<title id="title">mac.alvi — Pixels, products &amp; the beautiful game.</title>
 <desc id="desc">Dark editorial banner with a Chelsea-blue football passing arc.</desc>
 <defs>
   <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#203049" stroke-width=".8"/></pattern>
@@ -17,8 +17,8 @@
   <text x="907" y="42" fill="#96ABC5" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.2">CHITTAGONG  ·  BD</text>
   <text x="51" y="164" fill="#F7FAFE" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-5">mac.alvi</text>
   <path d="M54 183H216" stroke="#347DDB" stroke-width="5" stroke-linecap="round"/>
-  <text x="53" y="231" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">Design, code &amp; football.</text>
-  <text x="53" y="272" fill="#F0C444" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">Usually all at once.</text>
+  <text x="53" y="231" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">Pixels, products &amp;</text>
+  <text x="53" y="272" fill="#F0C444" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="-.6">the beautiful game.</text>
   <rect x="702" y="89" width="212" height="228" rx="12" fill="#101C2C" stroke="#274363" stroke-width="1.4"/>
   <path d="M808 89V317 M702 203H914" stroke="#2D4F71" stroke-width="1"/>
   <circle cx="808" cy="203" r="39" fill="none" stroke="#2D4F71" stroke-width="1"/>
