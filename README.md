@@ -15,11 +15,7 @@ I'm a **business operator and product builder** based in Chittagong, Bangladesh.
 
 **What matters to me:** clear interfaces, dependable systems, measurable improvements, and a little football along the way.
 
-<p align="center">
-  <img src="./terminal.svg" width="960" alt="Elevated terminal illustrating work at Lucky Store, KTL, StitchOS, and software engineering." />
-</p>
-
-[Current work](#01--current-work) · [Design projects](#02--design--side-projects) · [Tools](#03--tools--practice) · [Get in touch](#04--elsewhere)
+[Current work](#01--current-work) · [Design projects](#02--design--side-projects) · [Tools](#03--tools--practice) · [Elsewhere](#04--elsewhere)
 
 ---
 
@@ -43,6 +39,10 @@ An in-development garment manufacturing execution system exploring RFID-assisted
 
 **Status:** In development · Private codebase
 
+<p align="center">
+  <img src="./terminal.svg" width="960" alt="Elevated terminal illustrating work at Lucky Store, KTL, StitchOS, and software engineering." />
+</p>
+
 ---
 
 ## 02 / Design & side projects
@@ -51,19 +51,19 @@ An in-development garment manufacturing execution system exploring RFID-assisted
 
 Football-inspired apparel meets a visual-first e-commerce experience, with an emphasis on movement and a distinctive identity.
 
-[Visit website](https://stryv-xi.vercel.app/) · [View repository](https://github.com/fatalmonk/STRYV)
+**Explore:** [Visit website](https://stryv-xi.vercel.app/) · [View repository](https://github.com/fatalmonk/STRYV)
 
 ### [The Abusement Park](https://the-abusement-park.pages.dev/) — Fantasy football archive
 
 An FPL mini-league hall of fame, with leaderboards, past champions, season histories, and plenty of nostalgia.
 
-[Visit website](https://the-abusement-park.pages.dev/) · [View repository](https://github.com/fatalmonk/The-Abusement-Park)
+**Explore:** [Visit website](https://the-abusement-park.pages.dev/) · [View repository](https://github.com/fatalmonk/The-Abusement-Park)
 
 ### [For the Ummah](https://github.com/fatalmonk/fortheummah) — Puzzles & discovery
 
 An Islamic puzzle project with an enquiry-only shop experience taking shape.
 
-[View repository](https://github.com/fatalmonk/fortheummah)
+**Explore:** [View repository](https://github.com/fatalmonk/fortheummah)
 
 <sub>Selected work includes active builds and experiments. Not every feature or deployment is production-ready.</sub>
 
@@ -91,6 +91,6 @@ I also work with **Tailwind CSS, Dart, Redis, and GitHub Actions**, with particu
 
 ## 04 / Elsewhere
 
-[All repositories](https://github.com/fatalmonk?tab=repositories) · [Lucky Store](https://luckystore1947.com) · [KTL](https://www.ktlbd.com/) · [STRYV](https://stryv-xi.vercel.app/)
+Beyond these selected projects: [all repositories](https://github.com/fatalmonk?tab=repositories) on GitHub.
 
 <sub>with &lt;3 from Chittagong</sub>
