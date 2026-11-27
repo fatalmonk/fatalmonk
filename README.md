@@ -1,96 +1,102 @@
 <p align="center">
   <picture>
+    <source media="(max-width: 520px)" srcset="./assets/profile-hero-mobile.svg" />
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-static.svg" />
-    <img src="./assets/profile-hero-animated.svg" width="960" alt="mac.alvi — Pixels, products &amp; the beautiful game." />
+    <img src="./assets/profile-hero-animated.svg" width="960" alt="mac.alvi — Pixels, products &amp; the beautiful game. A football tactics illustration." />
   </picture>
 </p>
 
-<p align="center">
-  <img src="./assets/pillars-strip.svg" width="960" alt="Three interests: football culture, software systems, and garment production." />
-</p>
+### Business operations × product engineering
 
-### Where operations meet product design.
+I help turn practical problems in **retail and garment manufacturing** into better digital systems. Based in Chittagong, Bangladesh, I work across business operations, product decisions, and hands-on software development.
 
-I'm a **business operator and product builder** based in Chittagong, Bangladesh. My work connects retail, ready-made garment manufacturing, and software—turning day-to-day operational problems into more useful digital experiences.
+**My focus:** usable interfaces, dependable workflows, measurable evidence, and football culture.
 
-**What matters to me:** clear interfaces, dependable systems, measurable improvements, and a little football along the way.
-
-<p align="center">
-  <img src="./terminal.svg" width="960" alt="Elevated terminal illustrating work at Lucky Store, KTL, StitchOS, and software engineering." />
-</p>
-
-[Current work](#01--current-work) · [Design projects](#02--design--side-projects) · [Tools](#03--tools--practice) · [Get in touch](#04--elsewhere)
+[Selected work](#01--selected-work) · [Side projects](#02--design--side-projects) · [Working stack](#03--working-stack) · [Contact](#04--contact)
 
 ---
 
-## 01 / Current work
+## 01 / Selected work
 
-### [Lucky Store](https://luckystore1947.com) — Retail, rebuilt
+### [Lucky Store](https://luckystore1947.com) — Modernizing neighbourhood retail
 
-A neighbourhood retail business with a growing digital storefront and operating toolkit. I'm working across the shopping experience and the less-visible systems behind it: catalogues, inventory, point of sale, and operational workflows.
+**The problem:** Connect a long-running Chittagong retail business with the digital shopping experience and the daily work behind it.
 
-**Explore:** [Live storefront](https://luckystore1947.com) · [POS and storefront code](https://github.com/fatalmonk/luckystorePOS)
+**My contribution:** Product and operational work across the customer storefront, POS, catalogue, inventory interfaces, and supporting workflows. The work connects the online shopping experience with the operational systems that support it.
 
-### [Kattali Textile Limited](https://www.ktlbd.com/) — Manufacturing meets information
+**Evidence:** [Live storefront](https://luckystore1947.com) · [Storefront and POS source](https://github.com/fatalmonk/luckystorePOS)
 
-A ready-made garment manufacturer. My work includes its company website and exploring how production data can be made clearer and more useful for factory decisions.
+**Status:** Customer storefront is live; POS and operations tooling continue to evolve. The linked repository documents the implementation and ongoing changes.
 
-**Explore:** [Company website](https://www.ktlbd.com/) · [Website code](https://github.com/fatalmonk/ktlbdOnline) · [Production analysis](https://github.com/fatalmonk/KTL-Production-Analysis)
+### [Kattali Textile Limited](https://www.ktlbd.com/) — Making factory information useful
 
-### StitchOS — Factory-floor visibility
+**The problem:** Production and operational decisions need reliable, understandable information—not just more spreadsheets or dashboards.
 
-An in-development garment manufacturing execution system exploring RFID-assisted tracking, work-in-progress visibility, and traceable factory events.
+**My contribution:** Work involving the company's web presence and production-analysis tooling, connecting a manufacturing operator's perspective with software and data workflows.
 
-**Status:** In development · Private codebase
+**Evidence:** [Company website](https://www.ktlbd.com/) · [Website code](https://github.com/fatalmonk/ktlbdOnline) · [Production-analysis project](https://github.com/fatalmonk/KTL-Production-Analysis)
+
+**Status:** Website and analysis projects are available for inspection. Production-wide analytics deployment and measured uplift have not been independently verified.
+
+### [StitchOS](https://github.com/fatalmonk/stitchos) — Building toward traceable production
+
+**The problem:** A raw RFID read alone cannot establish that an operation was completed, or that factory work-in-progress is trustworthy.
+
+**My contribution:** Product and engineering direction for a security-first, RFID-aware manufacturing execution system designed around validated factory events, an authoritative Ledger, and rebuildable Trace views.
+
+**Evidence:** [Development repository](https://github.com/fatalmonk/stitchos) · [Architecture reference](https://app.notion.com/p/28efe7a68af880b28771d3e88752934f)
+
+**Status:** **Under development; not commissioned or production-qualified.** Signed Edge-to-Core ingestion, durable replay, and the KTL pilot still require verification.
+
+<details>
+<summary>View the elevated terminal — a visual map of the work</summary>
+
+<p align="center">
+  <img src="./terminal.svg" width="800" alt="Terminal illustration summarizing Lucky Store, KTL, StitchOS and the current scope of their work." />
+</p>
+
+</details>
 
 ---
 
 ## 02 / Design & side projects
 
-### [STRYV](https://stryv-xi.vercel.app/) — Football × streetwear
+### [STRYV](https://stryv-xi.vercel.app/) — Football meets streetwear
 
-Football-inspired apparel meets a visual-first e-commerce experience, with an emphasis on movement and a distinctive identity.
+A football-inspired visual commerce experiment, developed around apparel, identity, and movement.
 
-[Visit website](https://stryv-xi.vercel.app/) · [View repository](https://github.com/fatalmonk/STRYV)
+**Explore:** [Website](https://stryv-xi.vercel.app/) · [Repository](https://github.com/fatalmonk/STRYV)
 
 ### [The Abusement Park](https://the-abusement-park.pages.dev/) — Fantasy football archive
 
-An FPL mini-league hall of fame, with leaderboards, past champions, season histories, and plenty of nostalgia.
+An FPL mini-league hall of fame exploring leaderboards, champions, and season history.
 
-[Visit website](https://the-abusement-park.pages.dev/) · [View repository](https://github.com/fatalmonk/The-Abusement-Park)
+**Explore:** [Website](https://the-abusement-park.pages.dev/) · [Repository](https://github.com/fatalmonk/The-Abusement-Park)
 
 ### [For the Ummah](https://github.com/fatalmonk/fortheummah) — Puzzles & discovery
 
-An Islamic puzzle project with an enquiry-only shop experience taking shape.
+An Islamic puzzle and discovery project with an enquiry-oriented commerce concept in progress.
 
-[View repository](https://github.com/fatalmonk/fortheummah)
+**Explore:** [Repository](https://github.com/fatalmonk/fortheummah)
 
-<sub>Selected work includes active builds and experiments. Not every feature or deployment is production-ready.</sub>
-
----
-
-## 03 / Tools & practice
-
-<p align="center">
-  <img src="./assets/technology-stack.svg" width="960" alt="Three elevated technology stacks: interfaces, services, and data and edge." />
-</p>
-
-**Languages & interfaces**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-16283F?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-16283F?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-16283F?style=flat-square&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-16283F?style=flat-square&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-16283F?style=flat-square&logo=flutter&logoColor=white)
-
-**Services & infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-16283F?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16283F?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-16283F?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-16283F?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-16283F?style=flat-square&logo=cloudflare&logoColor=white)
-
-I also work with **Tailwind CSS, Dart, Redis, and GitHub Actions**, with particular interest in bilingual retail UX, reliable POS workflows, production traceability, analytics, SEO, and applied AI.
-
-<sub>Badges show technologies used across projects—not certifications, partnerships, or endorsements. Badge format inspired by [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile).</sub>
+*These projects include experiments and active development; links do not imply that every planned feature is released.*
 
 ---
 
-## 04 / Elsewhere
+## 03 / Working stack
 
-[All repositories](https://github.com/fatalmonk?tab=repositories) · [Lucky Store](https://luckystore1947.com) · [KTL](https://www.ktlbd.com/) · [STRYV](https://stryv-xi.vercel.app/)
+**Interfaces:** TypeScript · React · Next.js · Flutter · Tailwind CSS
 
-<sub>with &lt;3 from Chittagong</sub>
+**Services and data:** Python · FastAPI · PostgreSQL · Supabase · Cloudflare · GitHub Actions
+
+I use tools according to the operational problem: bilingual catalogue UX, retail POS, production analysis, traceability, testing, and deployment discipline. This is a selection of technologies used in projects, not a certification list.
+
+---
+
+## 04 / Contact
+
+For a **public project or collaboration enquiry**, [open an issue in this profile repository](https://github.com/fatalmonk/fatalmonk/issues/new). Issues are publicly visible, so do not include confidential or personal information.
+
+[Browse repositories](https://github.com/fatalmonk?tab=repositories) · [Lucky Store](https://luckystore1947.com) · [Kattali Textile Limited](https://www.ktlbd.com/)
+
+<sub>Built in Chittagong. Grounded in operations, expressed through products.</sub>

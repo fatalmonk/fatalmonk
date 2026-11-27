@@ -1,84 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 356" role="img" aria-labelledby="title desc">
-<title id="title">mac.alvi — Pixels, products &amp; the beautiful game.</title>
-<desc id="desc">Raised editorial lettering with a layered football tactics panel in Chelsea blue and gold.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 312" role="img" aria-labelledby="hero-title hero-desc">
+<title id="hero-title">mac.alvi — Pixels, products &amp; the beautiful game</title>
+<desc id="hero-desc">Graphite and navy portfolio banner with dimensional lettering, blue and gold details, and a tactical football pitch. Focus: retail, manufacturing, and software.</desc>
 <defs>
-  <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#203049" stroke-width=".8"/></pattern>
-  <clipPath id="frame"><rect width="960" height="356" rx="17"/></clipPath>
-  <linearGradient id="fieldFace" x1="0" y1="0" x2=".9" y2="1">
-    <stop offset="0" stop-color="#233C5A"/><stop offset=".45" stop-color="#132740"/><stop offset="1" stop-color="#0D1A2B"/>
-  </linearGradient>
-  <linearGradient id="fieldRim" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#3E7BB9"/><stop offset="1" stop-color="#142943"/>
-  </linearGradient>
-  <filter id="depthBlur" x="-25%" y="-25%" width="160%" height="170%">
-    <feGaussianBlur stdDeviation="7"/>
-  </filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132840"/><stop offset=".48" stop-color="#0B1B2E"/><stop offset="1" stop-color="#091320"/></linearGradient>
+  <linearGradient id="pitch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#244669"/><stop offset="1" stop-color="#11253C"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5BA2E5"/><stop offset="1" stop-color="#254B78"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#476789" stroke-opacity=".12"/></pattern>
+  <clipPath id="clip"><rect width="960" height="312" rx="18"/></clipPath>
 </defs>
-<style>
-  .run { animation: kick 5.6s cubic-bezier(.2,.72,.22,1) 1 both; }
-  .spin { transform-origin: 0 0; animation: spin 5.6s cubic-bezier(.2,.72,.22,1) 1 both; }
-  .route { stroke-dasharray: 265; stroke-dashoffset: 265; animation: trace 5.6s ease-out 1 both; }
-  .target { animation: target 5.6s ease-in-out 1 both; }
-  .elevated-field { animation: settle .9s cubic-bezier(.16,1,.3,1) 1 both; }
-  @keyframes settle { 0% { transform:translateY(5px); } 100% { transform:translateY(0); } }
-  @keyframes kick { 0%,13% { transform: translate(0px,0px); } 75%,100% { transform: translate(116px,-110px); } }
-  @keyframes spin { 0%,13% { transform: rotate(0deg); } 75%,100% { transform: rotate(720deg); } }
-  @keyframes trace { 0%,12% { stroke-dashoffset:265; } 74%,100% { stroke-dashoffset:0; } }
-  @keyframes target { 0%,65% { opacity:.3; } 80%,100% { opacity:1; } }
+<style><![CDATA[
+  .route { stroke-dasharray: 245; stroke-dashoffset: 0; animation: route-in 3.8s ease-out 1 both; }
+  .ring { animation: signal 3.8s ease-out 1 both; transform-origin: 849px 163px; }
+  @keyframes route-in { from { stroke-dashoffset: 245; } to { stroke-dashoffset: 0; } }
+  @keyframes signal { from { opacity: .22; } to { opacity: 1; } }
   @media (prefers-reduced-motion: reduce) {
-    .run,.spin,.route,.target,.elevated-field { animation:none !important; }
-    .route { stroke-dashoffset:0; }
-    .target { opacity:1; }
+    .route, .ring { animation: none !important; stroke-dashoffset: 0; opacity: 1; }
   }
-</style>
-<g clip-path="url(#frame)">
-  <rect width="960" height="356" fill="#0A1019"/>
-  <rect width="960" height="356" fill="url(#grid)" opacity=".36"/>
-  <rect x="1" y="1" width="958" height="354" rx="16" fill="none" stroke="#2A3B52" stroke-width="2"/>
-  <rect x="0" y="0" width="11" height="356" fill="#1658B5"/>
-  <path d="M50 68H909" stroke="#2C3B51" stroke-width="1"/>
-  <circle cx="58" cy="36" r="5" fill="#F0C444"/>
-  <text x="74" y="42" fill="#BFCBDA" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2.4">FATALMONK  /  PERSONAL PORTFOLIO</text>
-  <text x="907" y="42" fill="#96ABC5" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.2">CHITTAGONG  ·  BD</text>
-  <!-- Finite-offset layered lettering: depth survives SVG animation sanitization. -->
-  <text x="56" y="166" fill="#08152A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <text x="54" y="164" fill="#23518A" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <text x="52" y="162" fill="#397BC9" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <text x="51" y="160" fill="#F7FAFE" stroke="#E8F2FE" stroke-width=".35" paint-order="stroke" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="800" letter-spacing="-3">mac.alvi</text>
-  <path d="M54 180H264" stroke="#347DDB" stroke-width="5" stroke-linecap="round"/>
-  <text x="57" y="222" fill="#102B4A" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">Pixels, products &amp;</text>
-  <text x="53" y="218" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">Pixels, products &amp;</text>
-  <text x="57" y="256" fill="#614B1C" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">the beautiful game.</text>
-  <text x="53" y="252" fill="#F0C444" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="-.4">the beautiful game.</text>
-  <!-- Elevated tactical field: cast shadow, stacked metal edge, lit face. -->
-  <rect x="714" y="110" width="211" height="224" rx="15" fill="#000510" opacity=".78" filter="url(#depthBlur)"/>
-  <path d="M704 306 L916 306 L926 319 L714 319 Z" fill="#152E4B"/>
-  <path d="M915 90 L926 102 L926 319 L915 306 Z" fill="#0E2036"/>
-  <g class="elevated-field">
-    <rect x="702" y="89" width="212" height="228" rx="12" fill="url(#fieldFace)" stroke="url(#fieldRim)" stroke-width="1.5"/>
-    <path d="M713 101H902 M713 101V306" fill="none" stroke="#6BA5E3" stroke-width="1" opacity=".55"/>
-    <path d="M716 108H905V297" fill="none" stroke="#2E5B88" stroke-width=".8" opacity=".5"/>
-  </g>
-  <path d="M808 89V317 M702 203H914" stroke="#2D4F71" stroke-width="1"/>
-  <circle cx="808" cy="203" r="39" fill="none" stroke="#2D4F71" stroke-width="1"/>
-  <path d="M702 145H730V261H702 M914 145H885V261H914" fill="none" stroke="#2D4F71" stroke-width="1.3"/>
-  <text x="719" y="110" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#7191B5" letter-spacing="1.8">BUILD / PLAY</text>
-  <path d="M754 282 Q766 128 859 171" fill="none" stroke="#30475F" stroke-width="2" stroke-dasharray="5 7"/>
-  <path class="route" d="M754 282 Q766 128 859 171" fill="none" stroke="#4595F0" stroke-width="3" stroke-linecap="round"/>
-  <g class="target">
-    <circle cx="859" cy="171" r="27" fill="none" stroke="#F0C444" stroke-width="1.5" opacity=".8"/>
-    <circle cx="859" cy="171" r="39" fill="none" stroke="#F0C444" stroke-width=".8" opacity=".35"/>
-  </g>
-  <g transform="translate(748 278)">
-    <g class="run">
-      <g class="spin">
-        <circle r="17" fill="#F9FBFD" stroke="#F0C444" stroke-width="2"/>
-        <path d="M0 -8 L8 -2 L5 7 L-5 7 L-8 -2 Z" fill="#1557B1"/>
-        <path d="M-13 -11 L-4 -16 M12 -11 L4 -16 M-16 6 L-11 14 M16 6 L11 14 M0 10 V17" stroke="#1E344E" stroke-width="2" fill="none"/>
-      </g>
-    </g>
-  </g>
-  <path d="M688 94V311" stroke="#244365" stroke-width="1"/>
-  <text x="933" y="329" text-anchor="end" fill="#6D8CAC" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5">DESIGN • SYSTEMS • CULTURE</text>
+]]></style>
+<g clip-path="url(#clip)">
+  <rect width="960" height="312" fill="url(#bg)"/>
+  <rect width="960" height="312" fill="url(#grid)"/>
+  <rect width="10" height="312" fill="#236AC1"/>
+  <rect x="1" y="1" width="958" height="310" rx="17" fill="none" stroke="#4B6685" stroke-opacity=".7" stroke-width="1.5"/>
+  <path d="M42 53H923" stroke="#44658A" stroke-opacity=".5"/>
+  <circle cx="52" cy="30" r="4" fill="#F0C444"/>
+  <text x="66" y="35" font-size="14" font-family="Arial,Helvetica,sans-serif" letter-spacing="2" font-weight="700" fill="#B7CFE8">FATALMONK  /  PORTFOLIO</text>
+  <text x="54" y="150" font-size="102" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-4" fill="#07101C">mac.alvi</text>
+  <text x="51" y="147" font-size="102" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-4" fill="#2B5D97">mac.alvi</text>
+  <text x="48" y="144" font-size="102" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-4" fill="#F5FAFF">mac.alvi</text>
+  <path d="M51 160H284" stroke="#1A3B60" stroke-width="8" stroke-linecap="round"/>
+  <path d="M51 158H284" stroke="#62A8E8" stroke-width="3" stroke-linecap="round"/>
+  <text x="52" y="207" font-size="34" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#F4F8FE">Pixels, products &amp;</text>
+  <text x="52" y="249" font-size="34" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#F0C444">the beautiful game.</text>
+  <text x="53" y="285" font-size="16" font-family="Arial,Helvetica,sans-serif" letter-spacing="2" fill="#A6BDD6">RETAIL / GARMENTS / SOFTWARE</text>
+  <path d="M681 72V276" stroke="#4A7298" stroke-opacity=".5"/>
+  <rect x="717" y="85" width="205" height="211" rx="13" fill="#030914" opacity=".56"/>
+  <path d="M704 271H910L924 287H718Z" fill="#153454"/>
+  <path d="M910 68L924 82V287L910 271Z" fill="#0C2037"/>
+  <rect x="704" y="68" width="206" height="203" rx="13" fill="url(#pitch)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="714" y="78" width="186" height="183" rx="6" fill="none" stroke="#7EB7E7" stroke-opacity=".62" stroke-width="1.5"/>
+  <path d="M807 78V261 M714 169H900 M714 133H742V210H714 M900 133H872V210H900" stroke="#82A8CF" stroke-opacity=".55" stroke-width="1.4" fill="none"/>
+  <circle cx="807" cy="169" r="33" fill="none" stroke="#82A8CF" stroke-opacity=".55" stroke-width="1.4"/>
+  <path d="M746 247Q762 108 849 163" fill="none" stroke="#6C9CCC" stroke-opacity=".55" stroke-width="1.5" stroke-dasharray="5 7"/>
+  <path class="route" d="M746 247Q762 108 849 163" fill="none" stroke="#64B3FA" stroke-width="4" stroke-linecap="round"/>
+  <g class="ring"><circle cx="849" cy="163" r="27" fill="none" stroke="#F0C444" stroke-width="2"/><circle cx="849" cy="163" r="37" fill="none" stroke="#F0C444" stroke-opacity=".36"/></g>
+  <circle cx="753" cy="225" r="5" fill="#E6F1FB" stroke="#25405B" stroke-width="2"/>
+  <circle cx="826" cy="219" r="5" fill="#E6F1FB" stroke="#25405B" stroke-width="2"/>
+  <g transform="translate(849 163)"><circle r="14" fill="#F8FBFF" stroke="#F0C444" stroke-width="2.5"/><path d="M0 -8L8 -3L5 6H-5L-8 -3Z" fill="#1B67B8"/><path d="M-10 -10L-5 -14M10 -10L5 -14M-12 7L-8 12M12 7L8 12" fill="none" stroke="#29455E" stroke-width="1.7"/></g>
+  <text x="807" y="294" text-anchor="middle" font-size="11" letter-spacing="2" font-family="Arial,Helvetica,sans-serif" fill="#8AABCA">BUILD / PLAY</text>
 </g>
 </svg>
