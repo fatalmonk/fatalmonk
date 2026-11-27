@@ -67,6 +67,10 @@ An Islamic puzzle project with an enquiry-only shop experience taking shape.
 
 ## 03 / Tools & practice
 
+<p align="center">
+  <img src="./assets/technology-stack.svg" width="960" alt="Three elevated technology stacks: interfaces, services, and data and edge." />
+</p>
+
 **Languages & interfaces**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-16283F?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-16283F?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-16283F?style=flat-square&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-16283F?style=flat-square&logo=python&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-16283F?style=flat-square&logo=flutter&logoColor=white)
