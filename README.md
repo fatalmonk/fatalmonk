@@ -11,7 +11,7 @@
 
 ### Where operations meet product design.
 
-I'm a **business operator and product builder** based in Chattogram, Bangladesh. My work connects retail, ready-made garment manufacturing, and software—turning day-to-day operational problems into more useful digital experiences.
+I'm a **business operator and product builder** based in Chittagong, Bangladesh. My work connects retail, ready-made garment manufacturing, and software—turning day-to-day operational problems into more useful digital experiences.
 
 **What matters to me:** clear interfaces, dependable systems, measurable improvements, and a little football along the way.
 
