@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-static.svg" />
-    <img src="./assets/profile-hero-animated.svg" width="960" alt="mac.alvi — Design, code and football. Usually all at once." />
+    <img src="./assets/profile-hero-animated.svg" width="960" alt="mac.alvi — Pixels, products &amp; the beautiful game." />
   </picture>
 </p>
 
