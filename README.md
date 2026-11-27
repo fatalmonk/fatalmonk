@@ -15,6 +15,10 @@ I'm a **business operator and product builder** based in Chattogram, Bangladesh.
 
 **What matters to me:** clear interfaces, dependable systems, measurable improvements, and a little football along the way.
 
+<p align="center">
+  <img src="./terminal.svg" width="960" alt="Elevated terminal illustrating work at Lucky Store, KTL, StitchOS, and software engineering." />
+</p>
+
 [Current work](#01--current-work) · [Design projects](#02--design--side-projects) · [Tools](#03--tools--practice) · [Get in touch](#04--elsewhere)
 
 ---
